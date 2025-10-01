@@ -22,7 +22,7 @@ export function SiteHeader() {
           {/* Brand Logo */}
           <Link href="/" className="flex items-center gap-1.5">
             <Image
-              src="/icons/expantra logo.png"
+              src="./icons/expantra logo.png"
               alt="Expantra logo"
               width={400}
               height={400}
@@ -76,7 +76,7 @@ export function SiteHeader() {
                 {/* Brand Header */}
                 <div className="flex items-center gap-1.5 px-4 py-4 border-b border-gray-800">
                   <Image
-                    src="/icons/expantra logo.png"
+                    src="./icons/expantra logo.png"
                     alt="Expantra logo"
                     width={24}
                     height={24}

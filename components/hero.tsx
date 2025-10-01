@@ -16,7 +16,7 @@ export function Hero() {
       <div className="container mx-auto px-4">
         <div className="flex flex-col items-center justify-center py-14 sm:py-20">
           <div className="mb-5 flex items-center gap-2">
-            <Image src="/icons/expnatra logo.png" alt="Expantra logo" width={400} height={400} className="h-8 w-8" />
+            {/* <Image src="./icons/expantra logo.png" alt="Expantra logo" width={400} height={400} className="h-8 w-8" /> */}
             <p className="text-sm uppercase tracking-[0.25em] text-lime-300/80">Expantra</p>
           </div>
           <h1 className="mt-3 text-center text-4xl font-extrabold tracking-tight sm:text-5xl md:text-6xl">
